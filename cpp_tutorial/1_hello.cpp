@@ -17,8 +17,8 @@ int main(){
 
     //boolean
     bool a = false;
-
-    std::cout << x+y << '\n';
+    
+    //string 
     std::string name = "daehyun";
     std::cout << "Hello " << name;
 
