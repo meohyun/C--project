@@ -1,6 +1,5 @@
 #include <iostream>
 
-
 // typedef 타입 이름을 alias하여 사용할 수 있다.
 // using 키워드를 사용해도 똑같은 기능 수행 가능.
 
